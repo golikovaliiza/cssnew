@@ -1,0 +1,59 @@
+div {
+   background-color: white;
+   border: solid 1px white;
+   border-radius: 10px;
+}
+body {
+   background-color: pink;
+   margin-top: 0;
+   margin-left: 10%;
+   margin-right: 10%;  
+   min-width: 500px;
+}
+.img {
+   float: left;
+   height: 50px;
+   border: solid 5px white;
+}
+.text {
+   height: 250px;
+   border: solid 4x white;
+   padding-right: 5px;
+}
+.list {
+   float: left;
+   background-color: silver;
+   border: solid 5px white;
+   border-radius: 15px;
+   padding: 0;
+}
+h1 {
+   margin-bottom:0;
+   padding-left: 50px;
+}
+.foot {
+      float: none;
+      padding-left: 45%;
+}
+ul {
+   list-style-type: none;
+   padding-left: 5px;
+   padding-right: 10px;
+   margin: 5px;
+}
+.listinside {
+   padding-left: 20px;
+}
+.tech{
+   padding-left: 35%;
+} 
+p {
+   text-indent: 5%;
+}
+.margin {
+   margin-left: 19%;
+}
+.main {
+   border-radius: 15px;
+   text-align: left;
+}

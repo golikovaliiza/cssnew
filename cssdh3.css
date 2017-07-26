@@ -1,0 +1,74 @@
+div {
+   background-color: white;
+   border: solid 1px white;
+   border-radius: 10px;
+}
+body {
+   background-color: pink;
+   margin-top: 0;
+   min-width: 500px;
+   margin-left: 10%;
+   margin-right: 10%;   
+}
+.img {
+   float: left;
+   height: 50px;   
+   border: solid 5px white;
+}
+.dopkin {
+   float: right;
+   width: 35%;
+   margin: 1%;
+   background-color: silver;
+}
+.dopkininside {
+   border: none;
+   background-color: silver;
+   text-indent: 5%;
+   padding: 2%;
+}
+.dopkinskinhead {
+   padding-left: 2%;
+   margin:0;
+}
+.list {
+   float: left;
+   background-color: silver;
+   border: solid 5px white;
+   border-radius: 15px;
+   padding: 0;
+}
+h1 {
+   margin-bottom:0;
+}
+.foot {
+   float: none;
+   padding-left: 40%;
+}
+ul {
+   list-style-type: none;
+   padding-left: 5px;
+   padding-right: 10px;
+   margin: 5px;
+}
+.listinside {
+   padding-left: 20px;
+}
+.ss2 {
+   border-top: ;
+   border-top: ;
+}
+.tech{
+   padding-left: 35%;
+} 
+.obp2 {
+   text-indent: 5%;
+}
+.margin {
+   margin-left: 19%;
+   text-align: justify;
+}
+.main {
+   border-radius: 15px;
+   text-align: left;
+}

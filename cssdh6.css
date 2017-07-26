@@ -1,0 +1,73 @@
+div {
+   background-color: white;
+   border: solid 1px white;
+   border-radius: 10px;
+}
+th {
+   width: 40px;
+   height: 40px;
+}
+
+body {
+   min-width: 500px;
+   background-color: pink;
+   margin-top: 0;
+   margin-left: 10%;
+   margin-right: 10%;  
+}
+.input {
+   border: outset 1px white;
+}
+.img {
+   float: left;
+   height: 50px;
+   border: solid 5px white;
+}
+.text {
+   padding-left: 43%;
+}
+.margin {
+   margin-left: 19%;
+}
+.main {
+   border-radius: 15px;
+   text-align: left;
+}
+.list {
+   float: left;
+   background-color: silver;
+   border: solid 5px white;
+   border-radius: 15px;
+   padding: 0;
+}
+td {
+   width: 40px;
+   height: 40px;
+}
+input {
+   width: 100%;
+   height: 100%;
+}
+h1 {
+   margin-bottom:0;
+   padding-left: 50px;
+}
+.foot {
+   float: none;
+   padding-left: 45%;
+}
+ul {
+   list-style-type: none;
+   padding-left: 5px;
+   padding-right: 10px;
+   margin: 5px;
+}
+.listinside {
+   padding-left: 25px;
+}
+.tech{
+   padding-left: 37%;
+} 
+p {
+   text-indent: 5%;
+}
